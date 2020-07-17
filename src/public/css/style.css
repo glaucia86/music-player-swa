@@ -182,7 +182,7 @@ canvas {
 }
 
 .upload-btn::before {
-	content: 'Carregar sua música';
+	content: 'Carregue sua música';
 	display: inline-block;  
 	left: 2vmax;
 	outline: none;
