@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="no-js">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Demo</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="teste" />
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script>
+	document.documentElement.className = 'js';
+	</script>
+</head>
+
+<body class="demo-2">
+	<main class="site-wrapper">
+		<header class="codrops-header">
+			<h1 class="codrops-header__title">Audio Visualizers</h1>
+		</header>
+		<div class="content main">
+			<div class="canvas-wrapper">
+				<div id="p5_loading" class="p5_loading">
+					<div class="p5_loading__inner">
+						<span></span>
+					</div>
+				</div>
+				<div id="uploading-animation" class="p5_loading">
+					<div class="p5_loading__inner">
+						<span></span>
+					</div>
+				</div>
+				<canvas id="webglcanvas"></canvas>
+			</div>
+		</div>
+	</main>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.dom.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.sound.min.js"></script>
+	<script src="./js/sketch.js"></script>
+</body>
+
+</html>
