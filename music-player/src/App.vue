@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    <MusicPlayer msg="Welcome to the SWA + GitHub Actions + Vue.js Application"/>
+    <MusicPlayer msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import MusicPlayer from './components/MusicPlayer.vue'
+import MusicPlayer from './components/MusicPlayer/index'
 
 export default {
   name: 'App',
