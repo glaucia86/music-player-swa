@@ -1,10 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400');
-*,
-*::after,
-*::before {
-	box-sizing: border-box;
-}
-
 body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
@@ -31,15 +24,6 @@ a:focus {
 	width: 0;
 	height: 0;
 	pointer-events: none;
-}
-
-/* Icons */
-.icon {
-	display: block;
-	width: 1.5em;
-	height: 1.5em;
-	margin: 0 auto;
-	fill: currentColor;
 }
 
 /* Header */
@@ -198,7 +182,7 @@ canvas {
 }
 
 .upload-btn::before {
-	content: 'Upload your track';
+	content: 'Carregar sua música';
 	display: inline-block;  
 	left: 2vmax;
 	outline: none;
