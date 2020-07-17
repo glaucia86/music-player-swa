@@ -1,0 +1,31 @@
+{
+  "name": "music-player-swa",
+  "version": "1.0.0",
+  "description": "Um simples Music Player usando a biblioteca JavaScript P5.js com SWA & GitHub Actions",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon",
+    "prepush": "npm run lint",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "p5js",
+    "azure",
+    "azure static web apps",
+    "swa",
+    "github-actions",
+    "deploy"
+  ],
+  "author": "Glaucia Lemos <Twitter: @glaucia_lemos86>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "husky": "^4.2.5",
+    "nodemon": "^2.0.4"
+  }
+}
