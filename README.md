@@ -15,6 +15,7 @@ Caso desejam saber um pouco mais sobre a biblioteca p5.js, estarei disponibiliza
 - **[Visal Studio Code](https://code.visualstudio.com/?WT.mc_id=musicplayer_swa-github-gllemos)**
 - **[JavaScript library - P5.js](https://p5js.org/examples/)**
 - **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-devto-gllemos&WT.mc_id=musicplayer_swa-github-gllemos)**
+- **[Vs Code Extension - Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=musicplayer_swa-github-gllemos)**
 - **[GitHub Actions](https://docs.github.com/en/actions)**
 
 ## ⭐️ Conta - Azure For Students 
