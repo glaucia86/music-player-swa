@@ -1,6 +1,8 @@
 # 🎵 Player de Música com P5.js + SWA + GitHub Actions
 
-<a align="center" href="https://gifyu.com/image/Q1GY"><img src="https://s7.gifyu.com/images/p5-swa-demo.gif" alt="p5-swa-demo.gif" border="0" /></a>
+<p align="center">
+  <img src="./media/p5js-swa-demo.png" alt="Music Player P5.js + SWA" width="100%">
+</p>
 
 Music Player em JavaScript usando a biblioteca **[p5.js](https://p5js.org/examples/)**. O projeto foi baseado no seguinte artigo **[AQUI](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/)**
 
