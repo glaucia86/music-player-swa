@@ -1,4 +1,4 @@
-# 🎵 Player de Música com P5.js + SWA + GitHub Actions
+# 🎵 Music Player com P5.js + SWA + GitHub Actions
 
 <p align="center">
   <img src="./media/p5js-swa-demo.png" alt="Music Player P5.js + SWA" width="100%">
