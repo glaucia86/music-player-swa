@@ -12,16 +12,16 @@ Caso desejam saber um pouco mais sobre a biblioteca p5.js, estarei disponibiliza
 
 ## 🚀 Recursos Utilizados 
 
-- **[Visal Studio Code](https://code.visualstudio.com/?WT.mc_id=musicplayer_swa-github-gllemos)**
+- **[Visal Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - **[JavaScript library - P5.js](https://p5js.org/examples/)**
-- **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-devto-gllemos&WT.mc_id=musicplayer_swa-github-gllemos)**
-- **[Vs Code Extension - Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=musicplayer_swa-github-gllemos)**
+- **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-0000-gllemos)**
+- **[Vs Code Extension - Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=javascript-0000-gllemos)**
 - **[GitHub Actions](https://docs.github.com/en/actions)**
-- **[Conta Azure Free](https://azure.microsoft.com/free/?WT.mc_id=musicplayer_swa-github-gllemos)**
+- **[Conta Azure Free](https://azure.microsoft.com/free/?WT.mc_id=javascript-0000-gllemos)**
 
 ## ⭐️ Conta - Azure For Students 
 
-Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=musicplayer_swa-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/free/students/?WT.mc_id=musicplayer_swa-github-gllemos)**
+Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**
 
 ## 🔥 Executando aplicação Localmente
 
@@ -45,10 +45,10 @@ E vòilá! :heart: :heart:
 
 ## ❗️ Recursos e Links Importantes
 
-- ✅ **[Documentação Oficial do Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=musicplayer_swa-github-gllemos)**
-- ✅ **[Curso Microsoft Learn - Publicando uma aplicação e API JavaScript do Angular, React, Svelte ou Vue com Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=musicplayer_swa-github-gllemos)**
-- ✅ **[Curso Microsoft Learn - Criando e publicando uma aplicação Web estático com o Gatsby e Azure Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service/?WT.mc_id=musicplayer_swa-github-gllemos)**
-- ✅ **[Curso Microsoft Learn - Compilando fluxos de trabalho de integração contínua (CI) com o GitHub Actions](https://docs.microsoft.com/learn/modules/github-actions-ci/?WT.mc_id=musicplayer_swa-github-gllemos)**
+- ✅ **[Documentação Oficial do Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Curso Microsoft Learn - Publicando uma aplicação e API JavaScript do Angular, React, Svelte ou Vue com Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Curso Microsoft Learn - Criando e publicando uma aplicação Web estático com o Gatsby e Azure Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service/?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Curso Microsoft Learn - Compilando fluxos de trabalho de integração contínua (CI) com o GitHub Actions](https://docs.microsoft.com/learn/modules/github-actions-ci/?WT.mc_id=javascript-0000-gllemos)**
 - ✅ **[Documentação Oficial do P5.sound](https://p5js.org/reference/#/libraries/p5.sound)**
 - ✅ **[Artigo baseado na demo](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/)**
 
