@@ -36,7 +36,7 @@ Antes de iniciar os passos abaixo é muito importante que você execute nesse mo
 2) Depois executar o seguinte comando para executar a aplicação (dentro da pasta `src`):
 
 ```
-> nodemon
+> npm run start
 ```
 
 Depois bastam abrir o postamn em **localhost:8000** e testar as requisições
