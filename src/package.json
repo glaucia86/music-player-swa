@@ -21,7 +21,7 @@
   "author": "Glaucia Lemos <Twitter: @glaucia_lemos86>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
